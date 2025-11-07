@@ -1,17 +1,20 @@
-﻿<h2>Enter player details</h2>
+﻿
+<!--Player data entry page-->
+
+<h2>Enter player details</h2>
 <center>
-    <form method="post" action="/Home/Details/">
+    <form method="post" action="/Home/PlayerDetails">
         Enter player number
-        <input type="text" name="playerId" />
+        <input type="text" name="id" /> <!--name should be equal to data fields-->
         <br/><br/>
         Enter player name
-        <input type="text" name="playerName" />
+        <input type="text" name="name" />
         <br/><br/>
         Enter player runs
-        <input type="text" name="playerRuns" />
+        <input type="text" name="runs" />
         <br /><br />
         Enter player country
-        <input type="text" name="playerCountry"/>
+        <input type="text" name="country"/>
         <br /><br />
         <input type="submit" value="Submit" />
     
