@@ -1,0 +1,18 @@
+﻿
+<!--result view page-->
+@model CricketData.Models.Cricket
+<center>
+    <h2>Player Details</h2>
+    <br/>
+    Player Id : @Model.id
+    <br/>
+    Player Name : @Model.name
+    <br />
+    Player Country : @Model.country
+    <br />
+    Player Runs : @Model.runs
+    <br/>
+    Match date: @Model.GameDay.ToString("dd-MM-yyyy");
+
+
+</center>
