@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|e:\\myspace\\cdac\\languages\\mvc\\entityframework_sample\\entityframework_sample\\migrations\\20251108170421_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E49DF2-5DB5-41D2-B42F-71A41206D769}|EntityFrameWork_Sample\\EntityFrameWork_Sample.csproj|solutionrelative:entityframework_sample\\migrations\\20251108170421_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\appsettings.json",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\appsettings.json",
+              "RelativeToolTip": "EntityFrameWork_Sample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T17:17:45.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T17:17:41.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T17:12:48.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T17:09:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T17:09:21.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Program.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Program.cs",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:07:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251108170421_test.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Migrations\\20251108170421_test.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Migrations\\20251108170421_test.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Migrations\\20251108170421_test.cs",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Migrations\\20251108170421_test.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:04:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:02:04.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Models\\Student.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Models\\Student.cs",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:56:45.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork_Sample\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\EntityFrameWork_Sample\\EntityFrameWork_Sample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EntityFrameWork_Sample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:49:58.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
