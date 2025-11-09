@@ -1,9 +1,11 @@
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MovieList_EntityFrameWork.Models;
 
 namespace MovieList_EntityFrameWork.Controllers
 {
+    //for login authentication
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

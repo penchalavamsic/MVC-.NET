@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Migrations\\20251109060820_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieList_EntityFrameWork\\Migrations\\20251109060820_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Migrations\\20251109071908_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieList_EntityFrameWork\\Migrations\\20251109071908_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,71 +46,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "MovieList_EntityFrameWork\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T06:12:10.878Z",
+              "WhenOpened": "2025-11-09T07:31:43.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "20251109071908_IdentitySetup.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Migrations\\20251109071908_IdentitySetup.cs",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Migrations\\20251109071908_IdentitySetup.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Migrations\\20251109071908_IdentitySetup.cs",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Migrations\\20251109071908_IdentitySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:19:08.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Program.cs",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Program.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Program.cs",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:47:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MovieList_EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T06:11:34.97Z",
+              "WhenOpened": "2025-11-09T06:37:44.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MovieList_EntityFrameWork\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T06:12:05.067Z",
+              "WhenOpened": "2025-11-09T07:39:44.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Program.cs",
-              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Program.cs",
-              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Program.cs",
-              "RelativeToolTip": "MovieList_EntityFrameWork\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T06:10:34.965Z",
+              "WhenOpened": "2025-11-09T06:03:35.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20251109060820_test.cs",
-              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Migrations\\20251109060820_test.cs",
-              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Migrations\\20251109060820_test.cs",
-              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Migrations\\20251109060820_test.cs",
-              "RelativeToolTip": "MovieList_EntityFrameWork\\Migrations\\20251109060820_test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T06:08:20.921Z",
+              "WhenOpened": "2025-11-09T07:36:25.634Z",
               "EditorCaption": ""
             },
             {
@@ -117,33 +147,20 @@
               "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Controllers\\MoviesController.cs",
               "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MovieList_EntityFrameWork\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T06:07:37.01Z",
+              "WhenOpened": "2025-11-09T07:31:00.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T06:03:35.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Movies.cs",
               "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Models\\Movies.cs",
               "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Models\\Movies.cs",
               "RelativeToolTip": "MovieList_EntityFrameWork\\Models\\Movies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T05:59:55.486Z",
               "EditorCaption": ""
