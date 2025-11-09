@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|e:\\myspace\\cdac\\languages\\mvc\\movielist_entityframework\\movielist_entityframework\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F411C6-ECB6-4B60-AF96-A6548E2EB865}|MovieList_EntityFrameWork\\MovieList_EntityFrameWork.csproj|solutionrelative:movielist_entityframework\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:03:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "MovieList_EntityFrameWork\\Models\\Movies.cs",
+              "ToolTip": "E:\\MySpace\\CDAC\\Languages\\MVC\\MovieList_EntityFrameWork\\MovieList_EntityFrameWork\\Models\\Movies.cs",
+              "RelativeToolTip": "MovieList_EntityFrameWork\\Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T05:59:55.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
