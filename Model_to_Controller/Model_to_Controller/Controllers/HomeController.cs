@@ -30,7 +30,16 @@ namespace Model_to_Controller.Controllers
         }
         public IActionResult Address(Address obj) //model binding
         {
+            Address1(obj); //calling two methods with singleAction method
+            Address2(obj);
             return View(obj);
+        }
+        public void Address1(Address obj)
+        {
+
+        }
+        public void Address2(Address obj)
+        {
         }
     }
 }
